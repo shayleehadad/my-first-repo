@@ -1,9 +1,19 @@
+<<<<<<< HEAD
 #Shaylee Hadad
 
 ### Geography
 
 I live in the city of Baltimore, in the state of Maryland, in the United States
 of America.
+=======
+git pull# This is a large heading
+
+## This is a smaller 
+And as **imagination** bodies forth,
+The forms of things *unknown*, the poet’s pen,
+Turns them to shapes and gives to airy nothing,
+A local *habitation* and a **name**.
+>>>>>>> master
 
 ### Reading
 
